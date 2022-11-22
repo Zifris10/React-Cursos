@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente <GifItem /> Crear el snapshot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Lana Rhoades"
+      src="https://jestjs.io/docs/configuration#testenvironment-string"
+    />
+    <p>
+      Lana Rhoades
+    </p>
+  </div>
+</div>
+`;

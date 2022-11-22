@@ -21,7 +21,7 @@ const AddCategory = ({
     };
 
     return (
-        <form onSubmit={handleSubmit}>
+        <form aria-label='form-gifs' onSubmit={handleSubmit}>
             <input type='text' placeholder='Buscar gifs' value={inputValue} onChange={handleInputChange} />
         </form>
     )
