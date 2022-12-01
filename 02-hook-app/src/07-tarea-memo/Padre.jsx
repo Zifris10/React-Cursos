@@ -12,7 +12,7 @@ const Padre = () => {
     return (
         <div className='container'>
             <h1>Padre</h1>
-            <p> Total: { valor } </p>
+            <p>Total: {valor}</p>
             <hr />
             {
                 numeros.map(n => (
